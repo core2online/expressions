@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Space Grotesk Regular";
+    src: url("./assets/SpaceGrotesk-Regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+h1 {
+    font-family: 'Space Grotesk Regular';
+}
